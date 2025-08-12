@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "sky_origins_tech_2:voidblock"
+    }
+  ],
+  "result": {
+    "item": "sky_origins_tech_2:voidessence",
+    "count": 9
+  }
+}

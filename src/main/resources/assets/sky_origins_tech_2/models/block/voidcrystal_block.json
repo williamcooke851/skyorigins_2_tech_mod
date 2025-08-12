@@ -1,0 +1,6 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "sky_origins_tech_2:block/voidcrystal_block"
+  }
+}

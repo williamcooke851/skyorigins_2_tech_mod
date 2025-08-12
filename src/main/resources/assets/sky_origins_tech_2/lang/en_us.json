@@ -2,5 +2,7 @@
   "item.sky_origins_tech_2.voidessence": "void essence",
   "item.sky_origins_tech_2.voidcrystal": "void crystal",
 
-  "Block.sky_origins_tech_2.block_of_voidcrystals": "Block of void crystals"
-}.
+"block.sky_origins_tech_2.voidcrystal_block": "block of voidcrystal",
+  "block.sky_origins_tech_2.voidblock": "void block",
+  "skyorigns2_tech_tab": "Skyorigins 2 tech void blocks"
+}

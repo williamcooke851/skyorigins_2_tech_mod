@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "AAA",
+    "AAA",
+    "AAA"
+  ],
+  "key": {
+    "A": {
+      "item": "sky_origins_tech_2:voidessence"
+    }
+  },
+  "result": {
+    "item": "sky_origins_tech_2:voidblock"
+  }
+}

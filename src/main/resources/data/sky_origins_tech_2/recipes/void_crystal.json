@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:smelting",
+  "category": "misc",
+  "cookingtime": 200,
+  "experience": 0.35,
+  "ingredient": {
+    "item": "sky_origins_tech_2:voidessence"
+  },
+  "result": "sky_origins_tech_2:voidcrystal"
+}
