@@ -27,6 +27,8 @@ public class ModBlocks {
         public static final RegistryObject<Block> voidblock = registerBlock("voidblock",() -> new Block(BlockBehaviour.Properties.of().mapColor(MapColor.METAL).instrument(NoteBlockInstrument.IRON_XYLOPHONE)
                 .requiresCorrectToolForDrops().strength(15.0F, 6.0F).sound(SoundType.METAL)));
 
+    public static final RegistryObject<Block>  unobtainum_ore= registerBlock("unobtainum_ore",() -> new Block(BlockBehaviour.Properties.of().mapColor(MapColor.METAL).instrument(NoteBlockInstrument.IRON_XYLOPHONE)
+            .requiresCorrectToolForDrops().strength(19.0F, 6.0F).sound(SoundType.METAL)));
 
         private static <T extends Block> RegistryObject<T> registerBlock(String name, Supplier<T> block) {
             RegistryObject<T> toReturn = BLOCKS.register(name, block);

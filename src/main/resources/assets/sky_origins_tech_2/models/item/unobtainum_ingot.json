@@ -2,8 +2,8 @@
 	"format_version": "1.9.0",
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "block/unobtainum_ingot",
-		"particle": "block/unobtainum_ingot"
+		"0": "sky_origins_tech_2:item/unobtainum_ingot",
+		"particle": "sky_origins_tech_2:item/unobtainum_ingot"
 	},
 	"elements": [
 		{

@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:block",
+  "pools": [
+    {
+      "bonus_rolls": 0.0,
+      "conditions": [
+        {
+          "condition": "minecraft:survives_explosion"
+        }
+      ],
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "sky_origins_tech_2:unobtainum_ore.json"
+        }
+      ],
+      "rolls": 1.0
+    }
+  ],
+  "random_sequence": "sky_origins_tech_2:blocks/unobtainum_ore"
+}
