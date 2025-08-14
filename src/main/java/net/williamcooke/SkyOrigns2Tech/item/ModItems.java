@@ -18,6 +18,8 @@ public static final RegistryObject<Item> voidCrystal = ITEMS.register("voidcryst
         ()->new Item(new Item.Properties()));
     public static final RegistryObject<Item> raw_unobtainum = ITEMS.register("raw_unobtainum",
             ()->new Item(new Item.Properties()));
+    public static final RegistryObject<Item> unobtainum_ingot = ITEMS.register("unobtainum_ingot",
+            ()->new Item(new Item.Properties()));
 
     public static void register(IEventBus eventBus){
         ITEMS.register(eventBus);
