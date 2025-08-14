@@ -16,6 +16,8 @@ public class ModItems {
             ()-> new Item(new Item.Properties()));
 public static final RegistryObject<Item> voidCrystal = ITEMS.register("voidcrystal",
         ()->new Item(new Item.Properties()));
+    public static final RegistryObject<Item> raw_unobtainum = ITEMS.register("raw_unobtainum",
+            ()->new Item(new Item.Properties()));
 
     public static void register(IEventBus eventBus){
         ITEMS.register(eventBus);

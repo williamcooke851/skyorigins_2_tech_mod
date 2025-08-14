@@ -21,6 +21,9 @@ public class ModCreativeModeTabs {
         output.accept(ModBlocks.voidblock.get());
 
     }).build());
+    public static final RegistryObject<CreativeModeTab> SkyOrigins2Techores = CREATIVE_MODE_TABS.register("skyorigns2_tech_ores",() -> CreativeModeTab.builder().icon(() -> new ItemStack(ModItems.obblivum_alloy.get())).title(Component.translatable("skyorigns2_tech_tab")).displayItems((itemDisplayParameters, output) -> {
+     output.accept(ModItems.obblivum_alloy.get());
+    }).build());
 
     public static void register(IEventBus eventBus){
         CREATIVE_MODE_TABS.register(eventBus);
