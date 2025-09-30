@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "AAA",
+    "ABA",
+    "AAA"
+  ],
+  "key": {
+    "A": {
+      "item": "sky_origins_tech_2:voidessence"
+    },
+    "B": {
+      "item": "sky_origins_tech_2:unobtainum_ingot"
+    }
+  },
+  "result": {
+    "item": "sky_origins_tech_2:obblivum_alloy"
+  }
+}
